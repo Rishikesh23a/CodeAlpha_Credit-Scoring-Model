@@ -19,26 +19,26 @@ You can run this project entirely in **Google Colab** without any local setup.
 
 Requirements
 
--Python >= 3.7
--pandas
--scikit-learn
--matplotlib
--seaborn
--(If using Colab, dependencies are pre-installed.)
+- Python >= 3.7
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- (If using Colab, dependencies are pre-installed.)
 
 
 📈 Model Overview
 The credit scoring model uses machine learning algorithms (e.g., logistic regression, random forest) to predict the probability that a customer will default.
 
 Typical workflow:
--Data preprocessing
--Splitting into train/test sets
--Model training
--Evaluation (accuracy, ROC AUC)
--Visualization of performance metrics
+- Data preprocessing
+- Splitting into train/test sets
+- Model training
+- Evaluation (accuracy, ROC AUC)
+- Visualization of performance metrics
 
 ✨ Example Outputs
 
--Confusion Matrix
--ROC Curve
--Feature Importance
+- Confusion Matrix
+- ROC Curve
+- Feature Importance
